@@ -1,3 +1,3 @@
 # Winston
 
-[Click here](https://delelaniyan.github.io/Winston/winston.js)
+[Click here](https://delelaniyan.github.io/Winston/)
