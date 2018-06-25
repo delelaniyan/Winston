@@ -1,4 +1,11 @@
 // Winston's handsome features don't need outlines
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+
 noStroke();
 
 var eyeSize = 106;
@@ -17,3 +24,4 @@ ellipse(x + 100, 142, eyeSize, eyeSize);
 // mouth
 fill(252, 65, 65);
 ellipse(x + 50, 240, 120, 136);
+}
